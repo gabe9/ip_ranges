@@ -1,0 +1,7 @@
+# Comcast Dynamic IP Ranges
+#
+# Below is a list of our dynamic IP space. These are published to several DNSBLs that track dynamic IP space.
+# IPv6
+#
+2001:558:6000::/36
+2601:589:4800::/36
